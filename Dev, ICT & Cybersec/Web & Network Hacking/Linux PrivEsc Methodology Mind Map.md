@@ -1,1 +1,0 @@
-![|700](../../zzz_res/attachments/linux.privesc-minmap.png)
